@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## Music
 
-* [Original](README.md)
+* [Original](<README (1).md>)
 * [Cover](music/cover.md)
 
 ## Filmography
