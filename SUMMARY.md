@@ -4,7 +4,7 @@
 
 ## Music
 
-* [Original](<README (1).md>)
+* [Original](music/Original.md)
 * [Cover](music/cover.md)
 
 ## Filmography
