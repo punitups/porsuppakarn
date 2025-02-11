@@ -54,5 +54,10 @@ layout:
       <td><a href="https://youtu.be/tSrlivONQKc">https://youtu.be/tSrlivONQKc</a></td>
       <td><a href="../.gitbook/assets/it-7.jpg">it-7.jpg</a></td>
     </tr>
+    <tr>
+      <td>Live สัมภาษณ์ ป๋อตี๋ #มิลเล่งานผิวนิวเจน #MilleSkinofNewGen#Millebeaute</td>
+      <td><a href="https://www.youtube.com/live/jZQ8bnhhNKM">https://www.youtube.com/live/jZQ8bnhhNKM</a></td>
+      <td><a href="../.gitbook/assets/it-8.jpg">it-8.jpg</a></td>
+    </tr>
   </tbody>
 </table>
