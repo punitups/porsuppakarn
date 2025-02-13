@@ -17,4 +17,4 @@
 * [Online Contents](contents/online-contents.md)
 * [Interview](contents/interview.md)
 * [Reaction](contents/Reaction.md)
-* [Behind The Scenes](contents/reaction-1.md)
+* [Behind The Scenes](contents/bts.md)
