@@ -22,6 +22,10 @@
 {% endcolumn %}
 
 {% column %}
+{% embed url="https://youtu.be/FDj-8TECRnA" %}
+{% endcolumn %}
+
+{% column %}
 {% embed url="https://youtu.be/jVdRYQsAFHo" %}
 {% endcolumn %}
 {% endcolumns %}
