@@ -24,7 +24,7 @@ layout:
     <thead>
         <tr>
             <th width="150" align="center">วันที่</th>
-            <th width="450" align="center">รายการ</th>
+            <th width="400" align="center">รายการ</th>
             <th align="center">ย้อนหลัง</th>
         </tr>
     </thead>
