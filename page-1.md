@@ -20,8 +20,7 @@ layout:
 
 ## Behind The Scenes
 
-<div style="overflow-x: auto;">
-    <table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
         <thead>
             <tr>
                 <th style="width: 20%; text-align: center;">วันที่</th>
@@ -68,7 +67,6 @@ layout:
             </tr>
         </tbody>
     </table>
-</div>
 
 ---
 
