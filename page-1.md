@@ -45,7 +45,8 @@ layout:
         <tr><td align=center>28 Apr 2025</td><td align=center>LINE MAN LIVE กับ #LINEMANxป๋อตี๋ตี๋</td><td align=center><a href=https://www.youtube.com/live/Vjhdn7nFF_c?si=_s1UUn_yufw6sxi0><img src=https://img.icons8.com/color/24/youtube-play.png alt=YouTube></a></td></tr>
         <tr><td align=center>25 May 2025</td><td align=center>รายการ คุณพระช่วย</td><td align=center><a href=https://youtu.be/nwSsSRyJsNY?si=oqHb1zpy5q3DMygO><img src=https://img.icons8.com/color/24/youtube-play.png alt=YouTube></a></td></tr>
         <tr><td align=center>28 May 2025</td><td align=center>Unboxing Mission แกะกล่อง 'PRIDE OUT LOUDER' Photo Card Box Set ICONSIAM x กี่หมื่นฟ้า by ป๋อ-ตี๋ตี๋</td><td align=center><a href=https://youtu.be/cgUOFlBQDuQ?si=hTlqixjdTxKpjk95><img src=https://img.icons8.com/color/24/youtube-play.png alt=YouTube></a></td></tr>
-        <tr><td align=center>11 Jun 2025</td><td align=center>กี่หมื่นฟ้า X Gangnam Clinic Special Mission 1 | กี่หมื่นฟ้า Your Sky Series</td><td align=center><a href=https://youtu.be/w_W8-hdYwjU?si=c8dBMgebmUGCxkvJ><img src=https://img.icons8.com/color/24/youtube-play.png alt=YouTube></a></td></tr>
+        <tr><td align=center>11 Jun 2025</td><td align=center>กี่หมื่นฟ้า X Gangnam Clinic Special Mission 1</td><td align=center><a href=https://youtu.be/w_W8-hdYwjU?si=c8dBMgebmUGCxkvJ><img src=https://img.icons8.com/color/24/youtube-play.png alt=YouTube></a></td></tr>
+        <tr><td align=center>23 Jun 2025</td><td align=center>กี่หมื่นฟ้า X Gangnam Clinic Special Mission 2</td><td align=center><a href=https://youtu.be/mLaDhETrQx0?si=JkzDPJ2HwOxaVyMj><img src=https://img.icons8.com/color/24/youtube-play.png alt=YouTube></a></td></tr>
     </tbody>
 </table>
 
@@ -123,7 +124,7 @@ layout:
 
 ***
 
-## Press Tours & PromotionsAdd commentMore actions
+## Press Tours & Promotions
 
 <table>
     <thead>
