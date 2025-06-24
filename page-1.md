@@ -16,21 +16,53 @@ layout:
 
 ## Online Shows
 
+|31 Oct 2024|ดูมันเล่น x Halloween 2024 \| ดูมันดิบุกบ้านร้าง|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/49tNZ508naU)|
+|28 Dec 2024|SosatSeoulsay EP264 ฉากนั้น ฉากไหน?|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/HHaOtKCgOoo)|
+|28 Jan 2025|MAKE FRIENDS EXCLUSIVE INTERVIEW|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/yDeWjaKUyjo)|
+|08 Feb 2025|TODAY Play|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/3o1DUDcTSgI)|
+
 
 
 ## Specials & Clips
+
+|13 Oct 2024|DMD GEN 4 \| Welcome Home|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/9tmVht5C3Pw)|
+|14 Oct 2024|241014 Instagram Live|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/H8rxL7vqTZ4&t=1785)|
+|04 Nov 2024|241104 Instagram Live|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/aDlnpMD1sFY?si=p3DLbhGrn36NQ2l1)|
+|05 Nov 2024|241105 Instagram Live|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/jK8Pqih3gHw?si=jvemL6kEfmxk7bOG)|
 
 
 
 ## Behind The Scenes
 
-<table><thead><tr><th width="200.3359375">วันที่</th><th>รายการ</th><th>ย้อนหลัง</th></tr></thead><tbody><tr><td>19 Jun 2024</td><td>Official Pilot Behind The Scenes | กี่หมื่นฟ้า Your Sky Series</td><td><a href="https://youtu.be/lDf-wEXtnBw?si=1K1X4glVBVbZRbiV"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>02 Jul 2024</td><td>บรรยากาศฟิตติ้ง กี่หมื่นฟ้า Your Sky Series</td><td><a href="https://youtu.be/EYYbdGk7poo?si=xMBnqxOKasS59yVL"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>02 Jul 2024</td><td>Fitting กี่หมื่นฟ้า #FittingYourSkySeries</td><td><a href="https://www.youtube.com/live/wkSbWrS3hxE?si=T2QqOPPXid5T07T-"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>23 Jul 2024</td><td>บรรยากาศงานบวงสรวงซีรีส์กี่หมื่นฟ้า</td><td><a href="https://www.youtube.com/live/BfyyW_jQvns?si=Zk2bqdxli6UYPTsM"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>26 Jul 2024</td><td>กี่หมื่นฟ้า Your Sky Series | Fitting Behind the scenes</td><td><a href="https://youtu.be/brfh1SWHfa8?si=X2xJkK7HJ9lCXT1L"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>01 Aug 2024</td><td>เบื้องหลังถ่ายแฟชั่นของ 15 ศิลปิน Gen 3 - 4 จากค่ายดูมันดิ / Praew And You Ep.21</td><td><a href="https://youtu.be/miFjMkDzYkQ"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>15 Nov 2024</td><td>BTS | ชวนที่รัก ไปดูกี่หมื่นฟ้า | Your Sky Series</td><td><a href="https://youtu.be/L_UFCpkIi4M?si=xlvDPBjZ7L9-UUpw"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>29 Nov 2024</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.2</td><td><a href="https://youtu.be/l6kbqEtkRS4?si=9t0lFFC9qYW519zt"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>06 Dec 2024</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.3</td><td><a href="https://youtu.be/jVdRYQsAFHo?si=eBVgLwwhO6aEUNZ9"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>13 Dec 2024</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.4</td><td><a href="https://youtu.be/FDj-8TECRnA?si=4itZKfF6vxxziuGU"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>03 Jan 2025</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.7</td><td><a href="https://youtu.be/yUAtWAr-qB0?si=80SjE8gkOhYbiDV0"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>10 Jan 2025</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.8</td><td><a href="https://youtu.be/wxFCYqOAzwg?si=jyzXCPQ9jnn1tyFi"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>17 Jan 2025</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.9</td><td><a href="https://youtu.be/8gqajWEajq4?si=tQTDcfBcWmUo2I4_"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>17 Jan 2025</td><td>ประมวลภาพบรรยากาศงาน DMD CHARITY 2024 ‘GIVE YOUR HEART’</td><td><a href="https://youtu.be/vh3LU-rKKs4"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>24 Jan 2025</td><td>BTS</td><td>กี่หมื่นฟ้า Your Sky Series EP.10</td></tr><tr><td>07 Feb 2025</td><td>BTS | กี่หมื่นฟ้า Your Sky Series EP.12 (Final EP)</td><td><a href="https://youtu.be/oYp8DWggeOg"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>10 Feb 2025</td><td>บุกกองถ่ายกี่หมื่นฟ้าอีกครั้ง | ผู้เพื่อนตุ๊ดvlog</td><td><a href="https://youtu.be/oKWGkAjX2do?si=mAhzR_YPlKd4eiIr"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>18 Feb 2025</td><td>2nd Busking Your Sky Series | Behind The Scenes</td><td><a href="https://youtu.be/qzHi6EsufbA"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr><tr><td>06 Mar 2025</td><td>BTS | DMD GEN3 Fan Meeting in Bangkok “𝗙𝗿𝗶𝗲𝗻𝗱𝘀𝗵𝗶𝗽 𝗡𝗲𝘃𝗲𝗿 𝗘𝗻𝗱𝘀”</td><td><a href="https://youtu.be/sl5UNmaRrq8?si=GTquncjm1WKdkYE9"><img src="https://img.icons8.com/color/24/youtube-play.png" alt=""> YouTube</a></td></tr></tbody></table>
+|19 Jun 2024|Official Pilot Behind The Scenes \| กี่หมื่นฟ้า Your Sky Series|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/lDf-wEXtnBw?si=1K1X4glVBVbZRbiV)|
+|02 Jul 2024|บรรยากาศฟิตติ้ง กี่หมื่นฟ้า Your Sky Series|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/EYYbdGk7poo?si=xMBnqxOKasS59yVL)|
+|02 Jul 2024|Fitting กี่หมื่นฟ้า #FittingYourSkySeries|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/wkSbWrS3hxE?si=T2QqOPPXid5T07T-)|
+|23 Jul 2024|บรรยากาศงานบวงสรวงซีรีส์กี่หมื่นฟ้า|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/BfyyW_jQvns?si=Zk2bqdxli6UYPTsM)|
+|26 Jul 2024|กี่หมื่นฟ้า Your Sky Series \| Fitting Behind the scenes|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/brfh1SWHfa8?si=X2xJkK7HJ9lCXT1L)|
 
 
 
 ## Press Tours & Promotions
 
+|20 Nov 2024|MellowPOP Idol Play Room|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/ZZx6x2nw3JQ)|
+|26 Nov 2024|Flex Talk "กี่หมื่นฟ้า Your Sky Series"|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/2PRJiyH9DDU)|
+|05 Dec 2024|#EFMFandomlive \| 5 ธันวาคม 67|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/Ez6-ESo1GXo)|
+
 
 
 ## Press Conferences & Premieres
+
+|17 Nov 2024|Countdown EP1 กี่หมื่นฟ้า|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/4T3aQj7k8-k?si=qS77M_l3zj34t0T-)|
+|05 Jan 2025|Countdown EP8 กี่หมื่นฟ้า|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/uC4Boe4Vlsw)|
+|20 Feb 2025|บรรยากาศการเดินพรมงาน DMD LINE UP 2025+ "GLOW UP"|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/pfzNkt5FJzQ?si=zpcxdVi3kZ-FbFiU&t=2958)|
+|20 Feb 2025|DMD LINE UP 2025+ "GLOW UP"|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/kxEQvN8B6o0?si=OJrVz646x1eBtrmL&t=9634)|
+
+
+
+## Interview
+
+|24 Jul 2024|บวงสรวงซีรีส์กี่หมื่นฟ้า \| Starlight YNews|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/ZK5CiEEVJ-E)|
+|09 Nov 2024|ลองมาดูกี่หมื่นฟ้านะที่รัก \| Starlight YNews|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/y0WbVwDntEg)|
+|03 Dec 2024|Y ENTERTAIN AWARDS 2024 \| TripleClickTH|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://youtu.be/2eiUvOSLTMc)|
+|17 Dec 2024|Y universe \| Hello Asian|[![](https://img.icons8.com/color/24/youtube-play.png) YouTube](https://www.youtube.com/live/kGnnkACaP1g)|
 
