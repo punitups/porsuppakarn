@@ -21,52 +21,52 @@ layout:
 ## Behind The Scenes
 
 <table style="width: 100%; table-layout: fixed;">
-        <thead>
+    <thead>
+        <tr>
+            <th style="width: 20%;">วันที่</th>
+            <th style="width: 50%;">รายการ</th>
+            <th style="width: 30%;">ย้อนหลัง</th>
+        </tr>
+    </thead>
+    <tbody>
             <tr>
-                <th align="center" style="width: 20%;">วันที่</th>
-                <th align="center" style="width: 50%;">รายการ</th>
-                <th align="center" style="width: 30%;">ย้อนหลัง</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center">19 Jun 2024</td>
+                <td>19 Jun 2024</td>
                 <td>Official Pilot Behind The Scenes | กี่หมื่นฟ้า Your Sky Series</td>
-                <td align="center">
+                <td>
                 <a href="https://youtu.be/lDf-wEXtnBw?si=1K1X4glVBVbZRbiV">
                     <img src="https://img.icons8.com/color/24/youtube-play.png" alt="YouTube"> YouTube
                 </a>
                 </td>
             </tr>
             <tr>
-                <td align="center">02 Jul 2024</td>
+                <td>02 Jul 2024</td>
                 <td>บรรยากาศฟิตติ้ง กี่หมื่นฟ้า Your Sky Series</td>
-                <td align="center">
+                <td>
                 <a href="https://youtu.be/EYYbdGk7poo?si=xMBnqxOKasS59yVL">
                     <img src="https://img.icons8.com/color/24/youtube-play.png" alt="YouTube"> YouTube
                 </a>
                 </td>
             </tr>
             <tr>
-                <td align="center">02 Jul 2024</td>
+                <td>02 Jul 2024</td>
                 <td>Fitting กี่หมื่นฟ้า #FittingYourSkySeries</td>
-                <td align="center">
+                <td>
                 <a href="https://www.youtube.com/live/wkSbWrS3hxE?si=T2QqOPPXid5T07T-">
                     <img src="https://img.icons8.com/color/24/youtube-play.png" alt="YouTube"> YouTube
                 </a>
                 </td>
             </tr>
             <tr>
-                <td align="center">23 Jul 2024</td>
+                <td>23 Jul 2024</td>
                 <td>บรรยากาศงานบวงสรวงซีรีส์กี่หมื่นฟ้า</td>
-                <td align="center">
+                <td>
                 <a href="https://www.youtube.com/live/BfyyW_jQvns?si=Zk2bqdxli6UYPTsM">
                     <img src="https://img.icons8.com/color/24/youtube-play.png" alt="YouTube"> YouTube
                 </a>
                 </td>
             </tr>
-        </tbody>
-    </table>
+    </tbody>
+</table>
 
 ---
 
